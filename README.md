@@ -5,4 +5,4 @@
    B. ESCRIBA LA CANTIDAD DE DINERO A CONVERTIR
    C. ESCRIBA EL CODIGO DE LA MONEDA QUE DESEA OBTENER.
 
-   ![Conversor de Monedas](images/captura.png)
+   ![Conversor de Monedas](images/CONVERSOR.png)
