@@ -1,0 +1,8 @@
+### CONVERSOR DE MONEDAS###
+## Challenge de Alura Latam---Backend##
+##INTRUCCIONES##
+   A. ESCRIBA EL NÚMERO DE LA OPCIÓN A ELEGIR
+   B. ESCRIBA LA CANTIDAD DE DINERO A CONVERTIR
+   C. ESCRIBA EL CODIGO DE LA MONEDA QUE DESEA OBTENER.
+
+   ![Conversor de Monedas](images/captura.png)
